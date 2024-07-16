@@ -33,6 +33,6 @@ Developers can choose the programming language that best suits their preferences
 ### [AssemblyScript](https://www.assemblyscript.org/)
 A TypeScript-like language for WebAssembly.
 
-See exercise demo [here↙](/ts-wasm/).
+See exercise demo [here↙](/wasm-ts/datetime_calculator/).
 
 ![as-demo-shot](./ts-wasm/screenshot.gif)
